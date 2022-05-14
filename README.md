@@ -19,7 +19,10 @@ Necessário instalação do Portugol Studio
 * Foi utilizado apenas o caso. 
 
 
+## ⚙️ Apresentação do segundo projeto
 
+* Desenvolvido ao final da demonstração realizada pelo docente. Projeto realizado com o propósito de organizar listagens de informações de determinados produtos. Informações foram adicionadas além do proposto. 
+* Foi utilizado caso e faça. 
 
 ## ✒️ Autores
 
@@ -27,4 +30,4 @@ Necessário instalação do Portugol Studio
 
 
 
-* Exercício final do bloco "Introdução do Portugol" da DIO. Projeto desenvolvido com o propósito de apresentar dados pessoais de colaboradores de uma empresa, por exemplo. Para ir além do proposto, foi utilizado a concatenação no código, tornando o sistema mais completo dentro dos conhecimentos até então adquiridos. 
+* Exercício final do bloco "Introdução ao Portugol" da DIO. Projeto desenvolvido com o propósito de apresentar dados pessoais de colaboradores de uma empresa, por exemplo. Para ir além do proposto, foi utilizado a concatenação no código, tornando o sistema mais completo dentro dos conhecimentos até então adquiridos. 
